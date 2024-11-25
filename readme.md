@@ -27,5 +27,5 @@ A Python-based IoT project that simulates a smart home security system. This pro
 ## Installation
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Smart-Home-Security.git
+git clone https://github.com/priyanshijuyal/Smart-Home-Security.git
 cd Smart-Home-Security
